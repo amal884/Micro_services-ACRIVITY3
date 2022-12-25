@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../Activity3_MS/config-service-A3/pom.xml" />
+        <option value="$PROJECT_DIR$/../Activity3_MS/customer-service-A3/pom.xml" />
+        <option value="$PROJECT_DIR$/../Activity3_MS/gateway-service-A3/pom.xml" />
+        <option value="$PROJECT_DIR$/../Activity3_MS/inventory-service-A3/pom.xml" />
+        <option value="$PROJECT_DIR$/../Activity3_MS/order-service-A3/pom.xml" />
+        <option value="$PROJECT_DIR$/../Activity3_MS/billing/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

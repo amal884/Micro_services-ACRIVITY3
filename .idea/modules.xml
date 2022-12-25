@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MS_ACTIVITY3.iml" filepath="$PROJECT_DIR$/MS_ACTIVITY3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Activity3_MS/billing/billing.iml" filepath="$PROJECT_DIR$/../Activity3_MS/billing/billing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Activity3_MS/config-service-A3/config-service-A3.iml" filepath="$PROJECT_DIR$/../Activity3_MS/config-service-A3/config-service-A3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Activity3_MS/customer-service-A3/customer-service-A3.iml" filepath="$PROJECT_DIR$/../Activity3_MS/customer-service-A3/customer-service-A3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Activity3_MS/gateway-service-A3/gateway-service-A3.iml" filepath="$PROJECT_DIR$/../Activity3_MS/gateway-service-A3/gateway-service-A3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Activity3_MS/inventory-service-A3/inventory-service-A3.iml" filepath="$PROJECT_DIR$/../Activity3_MS/inventory-service-A3/inventory-service-A3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Activity3_MS/order-service-A3/order-service-A3.iml" filepath="$PROJECT_DIR$/../Activity3_MS/order-service-A3/order-service-A3.iml" />
+    </modules>
+  </component>
+</project>

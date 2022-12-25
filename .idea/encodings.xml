@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../Activity3_MS/billing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Activity3_MS/billing/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Activity3_MS/config-service-A3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Activity3_MS/config-service-A3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Activity3_MS/customer-service-A3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Activity3_MS/customer-service-A3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Activity3_MS/gateway-service-A3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Activity3_MS/gateway-service-A3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Activity3_MS/inventory-service-A3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Activity3_MS/inventory-service-A3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Activity3_MS/order-service-A3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Activity3_MS/order-service-A3/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
